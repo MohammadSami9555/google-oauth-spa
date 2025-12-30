@@ -123,12 +123,12 @@ GOOGLE_CLIENT_SECRET=xxxx
 
 
 Run backend
-
+--
 node server.js
 
 
 Server runs on:
-
+--
 http://localhost:5000
 
 
@@ -139,7 +139,7 @@ npm start
 
 
 App runs on:
-
+--
 http://localhost:3000
 
 
@@ -155,7 +155,7 @@ http://localhost:3000
 
 
 🔒 Security Practices Followed
-
+--
 ✔ HTTP-only cookies
 ✔ OAuth 2.0 best practices
 ✔ No password stored
@@ -165,7 +165,7 @@ http://localhost:3000
 
 
 🧭 Learning Outcomes
-
+--
 This project demonstrates:
 
 understanding of OAuth 2.0
