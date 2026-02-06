@@ -60,20 +60,6 @@ The project demonstrates **modern full-stack authentication architecture** used 
 
 ---
 
-## 📂 Project Structure
-
-google-oauth-spa/
-│
-├── backend/ ← Node backend (OAuth & session)
-│ └── server.js
-│
-├── frontend/ ← React Single Page Application
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── Profile.js
-│ │ └── App.css
-│
-└── README.md ← You are reading this 🙂
 
 ## ⚙️ Setup Instructions
 
@@ -183,3 +169,19 @@ working with Google Cloud Console
 React Router based navigation
 
 💼 Perfect for internships, resumes, viva & demo projects
+
+## 📂 Project Structure
+
+```text
+google-oauth-spa/
+│
+├── backend/ ← Node backend (OAuth & session)
+│ └── server.js
+│
+├── frontend/ ← React Single Page Application
+│ ├── src/
+│ │ ├── App.js
+│ │ ├── Profile.js
+│ │ └── App.css
+│
+└── README.md ← You are reading this 🙂
