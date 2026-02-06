@@ -172,7 +172,6 @@ React Router based navigation
 
 ## 📂 Project Structure
 
-```text
 google-oauth-spa/
 │
 ├── backend/ ← Node backend (OAuth & session)
